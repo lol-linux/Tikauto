@@ -1,3 +1,10 @@
-pytubefix==12.1.0
-moviepy==1.0.3
-datetime==4.3
+pytubefix
+moviepy
+numpy
+tqdm
+decorator
+imageio
+imageio-ffmpeg
+requests
+opencv-python
+Pillow
