@@ -1,4 +1,5 @@
 # Tikauto
 
 TiktokAuto
-ZEBI
+pip install -r requirements.txt
+
