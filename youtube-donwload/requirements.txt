@@ -1,5 +1,4 @@
 pytubefix
-moviepy
 numpy
 tqdm
 decorator
@@ -8,3 +7,5 @@ imageio-ffmpeg
 requests
 opencv-python
 Pillow
+moviepy==1.0.3
+datetime==4.3
